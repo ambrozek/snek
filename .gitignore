@@ -1,0 +1,6 @@
+snek/.vs/
+.vs/
+*.db
+*.ipch
+bin/
+obj/
